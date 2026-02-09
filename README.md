@@ -87,3 +87,12 @@ Install required Python libraries:
 
 ```bash
 pip install -r requirements.txt
+
+## 🏃‍♂️ How to Run
+
+```bash
+python main.py
+```
+
+The API will be available at `http://localhost:8000`.
+You can access the automatic documentation at `http://localhost:8000/docs`.
