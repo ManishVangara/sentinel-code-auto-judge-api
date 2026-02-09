@@ -171,8 +171,8 @@ Parsing errors | Improper JSON escaping | Escape characters correctly
 6. Resource monitoring
 7. Result aggregation and response
 
-![Code_Compiler_Flow.jpg]
-![Code_Compiler_Flow_2.jpg]
+![](Code_Compiler_Flow.jpg)
+![](Code_Compiler_Flow_2.jpg)
 
 ---
 
