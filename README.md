@@ -88,7 +88,7 @@ Install required Python libraries:
 
 pip install -r requirements.txt
 
-AI Providers (Optional):
+AI Providers:
 - openai
 - anthropic
 - huggingface_hub
@@ -171,8 +171,8 @@ Parsing errors | Improper JSON escaping | Escape characters correctly
 6. Resource monitoring
 7. Result aggregation and response
 
-![](Code_Compiler_Flow.jpg)
-![](Code_Compiler_Flow_2.jpg)
+![](Code_Compiler_Flow.JPG)
+![](Code_Compiler_Flow_2.JPG)
 
 ---
 
