@@ -189,22 +189,15 @@ Parsing errors | Improper JSON escaping | Escape characters correctly
 
 ## Project Structure
 
-```
-sentinelcode-autojudge/
+sentinel-code-auto-judge-api/
 |
-├── app/
-|   ├── main.py              Entry point
-|   ├── executor.py          Code execution logic
-|   ├── language_detect.py   Language detection
-|   ├── security.py          Security checks
-|   ├── testgen.py           AI test generation
-|   └── models.py            API schemas
-|
-├── requirements.txt
-├── .env
-├── README.md
-└── Dockerfile
-```
+├── main.py              # Entry point & Monolithic Logic
+├── requirements.txt     # Python dependencies
+├── README.md            # Documentation
+├── Application Report.md # Technical Report
+├── standard_tests.json  # Test cases
+├── test_cases_all_languages.json # More test cases
+└── .gitignore
 
 ---
 
