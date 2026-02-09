@@ -189,6 +189,7 @@ Parsing errors | Improper JSON escaping | Escape characters correctly
 
 ## Project Structure
 
+```
 sentinelcode-autojudge/
 |
 ├── app/
@@ -203,6 +204,7 @@ sentinelcode-autojudge/
 ├── .env
 ├── README.md
 └── Dockerfile
+```
 
 ---
 
